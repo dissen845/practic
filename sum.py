@@ -8,7 +8,7 @@ def minus(a, b):
 
 def mul(a, b):
     """Умножает два числа"""
-    return a*b +5
+    return  a*b
 
 if __name__ == '__main__':
     print(pluse(2, 2))
